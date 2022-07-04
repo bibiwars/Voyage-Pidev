@@ -1,0 +1,8 @@
+tn\esprit\spring\entities\Client.class
+tn\esprit\spring\Examen1MouradApplication.class
+tn\esprit\spring\services\IClientService.class
+tn\esprit\spring\entities\Profession.class
+tn\esprit\spring\services\ClientServiceImpl.class
+tn\esprit\spring\config\LoggingAspect.class
+tn\esprit\spring\controller\ClientRestController.class
+tn\esprit\spring\repository\ClientRepository.class
